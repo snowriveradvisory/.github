@@ -14,7 +14,6 @@ This GitHub organization hosts selected resources that reflect our approach to n
 - Sample reporting layouts and board-ready dashboards  
 - Checklists, tools, and other materials we choose to share publicly  
 
-Our core positioning:
 
 > **Snow River Advisory**  
 > Fractional CFO + Controller for Nonprofits  
@@ -22,7 +21,7 @@ Our core positioning:
 
 To learn more or get in touch, please visit:
 
-👉 **https://snowriveradvisory.com**
+**https://snowriveradvisory.com**
 
 ---
 
