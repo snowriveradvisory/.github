@@ -1,25 +1,30 @@
 # Snow River Advisory
 
-**Snow River Advisory** is a fractional CFO + Controller firm serving small and mid-sized **nonprofit organizations in Alaska**.
+Snow River Advisory is a long-term project currently in a research, exploration, and foundation-building phase. Our work is guided by three principles:
 
-We are currently building the firm’s foundational systems ahead of a planned public launch in **early 2027**. Our work is grounded in three principles:
+- **Clarity** — Bringing structure and simplicity to complex systems.
+- **Insight** — Developing thoughtful approaches grounded in careful observation and analysis.
+- **Stewardship** — Building with intention, discipline, and long-term sustainability in mind.
 
-- **Clarity** — Transforming complexity into financial understanding.  
-- **Insight** — Turning data into strategic guidance for confident decision-making.  
-- **Stewardship** — Honoring mission-driven work through disciplined and transparent financial practices.
+This GitHub organization hosts the **public-facing resources** that Snow River Advisory chooses to share as part of its ongoing exploration. These materials may include:
 
-This GitHub organization hosts the **public-facing resources** Snow River Advisory chooses to share with the nonprofit community. These materials reflect our approach to financial management and may include:
+- Conceptual frameworks and reference guides  
+- Example layouts, templates, or prototypes  
+- Selected tools developed through internal research  
 
-- Example financial models and forecasting templates  
-- Reporting layouts and dashboards  
-- Checklists, tools, and selected reference materials  
+These resources reflect ideas and practices we are shaping behind the scenes.
 
-Public resources are curated and published here.  
-Internal infrastructure and operational systems are maintained separately within **Snow River HQ**.
+---
 
+### Internal Work  
+Snow River Advisory also maintains **Snow River HQ**, a separate internal organization used for exploratory systems, infrastructure, and other behind-the-scenes development work.  
+All public materials are curated and published exclusively within this organization.
 
-> **Snow River Advisory**  
-> Fractional CFO + Controller for Nonprofits  
-> *Clarity • Insight • Stewardship*
+---
 
-To learn more or get in touch, please visit: **https://snowriveradvisory.com**
+**Snow River Advisory**  
+Clarity • Insight • Stewardship  
+**Est. 2027**
+
+To learn more or get in touch, please visit:  
+https://snowriveradvisory.com
